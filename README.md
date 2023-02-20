@@ -19,8 +19,11 @@ Visualizing correlations
 
 Train/Test split
 Making a Linear regression model: your first model
+
 Making a Linear regression model: your second model: Ordinary Least Squares (OLS)
+
 Making a Linear regression model: your third model: multiple linear regression
+
 Making a Linear regression model: your fourth model: avoiding redundancy
 
 ## 4. Evaluating and concluding
