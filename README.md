@@ -1,4 +1,4 @@
-# Linear-Regression-Case-Study-the-Red-Wine-Dataset
+# Linear Regression
 # Wine Study
 
 ## 1. Sourcing and loading
