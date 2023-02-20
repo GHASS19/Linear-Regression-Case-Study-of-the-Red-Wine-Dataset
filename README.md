@@ -4,8 +4,11 @@
 ## 1. Sourcing and loading
 
 Import relevant libraries
+
 Load the data
+
 Exploring the data
+
 Choosing a dependent variable
 
 ## 2. Cleaning, transforming, and visualizing
