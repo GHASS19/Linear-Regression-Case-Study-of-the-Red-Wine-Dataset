@@ -5,9 +5,9 @@
 
 - Import relevant libraries
 
--Load the data
+- Load the data
 
--Exploring the data
+- Exploring the data
 
 There are: 1599 rows.
 There are: 12 columns.
@@ -25,7 +25,7 @@ There are: 12 columns.
 ## 3. Modeling
 
 Train/Test split
-- Making a Linear regression model: first model
+- First Model: Making a Linear regression model
 
  This model's R-Squared coefficient score explained only about 45% of the variation from the mean.
 
@@ -39,7 +39,7 @@ This model had the highest R2 score of 87.1%.
 
 - Fourth model: avoiding redundancy
 
-We can also see from our early heat map that volatile.acidity and citric.acid are both correlated with pH. We can make a model that ignores those two variables and just uses pH, in an attempt to remove redundancy from our model. This mode got a R2 score of 74.2%. The lower R2 score means the columns were important to predicting the fixed acidity.
+We can see from the heat map that volatile.acidity and citric.acid are both correlated with pH. We can make a model that ignores those two variables and just uses pH, in an attempt to remove redundancy from our model. This mode got a R2 score of 74.2%. The lower R2 score means the columns were important to predicting the fixed acidity.
 
 
 ## 4. Evaluating and concluding
