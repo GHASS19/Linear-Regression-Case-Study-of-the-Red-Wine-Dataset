@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/86930309/227042359-b1551925-9d9a-410e-93cc-f2c19b9534e1.png)
+
 # Linear Regression
 # Wine Study
 
