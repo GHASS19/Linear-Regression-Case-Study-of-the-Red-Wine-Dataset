@@ -41,7 +41,7 @@ This model had the highest R2 score of 87.1%.
 
 - Fourth model: avoiding redundancy
 
-We can see from the heat map that volatile.acidity and citric.acid are both correlated with pH. We can make a model that ignores those two variables and just uses pH, in an attempt to remove redundancy from our model. This mode got a R2 score of 74.2%. The lower R2 score means the columns were important to predicting the fixed acidity.
+We can see from the heat map that volatile.acidity and citric.acid are both correlated with pH. We can make a model that ignores those two variables and just uses pH, in an attempt to remove redundancy from our model. This model got a R2 score of 74.2%. The lower R2 score means the columns were important to predicting the fixed acidity.
 
 
 ## 4. Evaluating and concluding
